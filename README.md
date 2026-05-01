@@ -20,7 +20,7 @@
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 研究経験
-・Ehime-U System with Judge and Refinement, Specialized Prompting, and Few-shot for the Patent Claim Translation Task at WAT 2025(https://aclanthology.org/2025.wat-1.2/)
+・Ehime-U System with Judge and Refinement, Specialized Prompting, and Few-shot for the Patent Claim Translation Task at WAT 2025[url](https://aclanthology.org/2025.wat-1.2/)
 
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
