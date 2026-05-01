@@ -9,7 +9,7 @@
 
 - 🧑‍💻 名前：枝松泰志
 - 🏫 所属：愛媛大学大学院理工学研究科理工学専攻数理情報プログラム
-- 🔬 研究室：人工知能研究室(https://sites.google.com/view/ehime-nlp/%E3%83%9B%E3%83%BC%E3%83%A0)
+- 🔬 研究室：人工知能研究室[https://sites.google.com/view/ehime-nlp/%E3%83%9B%E3%83%BC%E3%83%A0]
 - ✉️ メール：edamatsu@ai.cs.ehime-u.ac.jp
 <br>
 <img src="https://github.com/user-attachments/assets/f1121487-24e3-4df8-bf2a-eb0095550be5" width="400">
