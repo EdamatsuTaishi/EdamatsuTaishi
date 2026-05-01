@@ -36,7 +36,10 @@
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-##  Skills
+##  スキル
+・プログラミング：Python
+・フレームワーク / ライブラリ：PyTorch, Hugging Face Transformers, scikit-learn
+・その他：Git, LaTeX
 
 
 <!-- 3. 好きな技術スタックに変更 -->
