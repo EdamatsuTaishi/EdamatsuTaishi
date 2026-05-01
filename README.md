@@ -48,3 +48,4 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ##  その他
+・愛媛大学工学部2022年1年次GPA・GPTで1位
