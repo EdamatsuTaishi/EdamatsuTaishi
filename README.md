@@ -21,6 +21,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 研究経験
 ・Ehime-U System with Judge and Refinement, Specialized Prompting, and Few-shot for the Patent Claim Translation Task at WAT 2025[[URL](https://aclanthology.org/2025.wat-1.2/)]
+
 ・WAT 2025 The 12th Workshop on Asian Translation[[URL](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2025/index.html)]
 
 
