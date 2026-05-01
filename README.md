@@ -7,6 +7,7 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> プロフィール
 
+- 🌱 自然言語処理について勉強中
 - 🧑‍💻 名前：枝松泰志
 - 🏫 所属：愛媛大学大学院理工学研究科理工学専攻数理情報プログラム
 - 🔬 研究室：[人工知能研究室](https://sites.google.com/view/ehime-nlp/%E3%83%9B%E3%83%BC%E3%83%A0)
