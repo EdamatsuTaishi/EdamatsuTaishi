@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![a](https://github.com/user-attachments/assets/f1121487-24e3-4df8-bf2a-eb0095550be5,width="400")
+<img src="https://github.com/user-attachments/assets/f1121487-24e3-4df8-bf2a-eb0095550be5" width="400">
 <!--
 **EdamatsuTaishi/EdamatsuTaishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
