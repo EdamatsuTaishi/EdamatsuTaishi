@@ -38,7 +38,9 @@
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ##  スキル
 ・プログラミング：Python
+
 ・フレームワーク / ライブラリ：PyTorch, Hugging Face Transformers, scikit-learn
+
 ・その他：Git, LaTeX
 
 
